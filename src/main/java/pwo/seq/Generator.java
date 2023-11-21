@@ -1,5 +1,4 @@
 package pwo.seq;
-
 import java.math.BigDecimal;
 import pwo.utils.SequenceGenerator;
 

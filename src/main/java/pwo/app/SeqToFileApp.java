@@ -37,6 +37,7 @@ class SeqToFileApp {
     }
 
     public void run(String[] args) {
+        
         System.out.println("Sequence to file CLI app");
 
         if (!getArgs(args)) {
