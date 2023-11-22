@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/student/pwo/pwo-lab05/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/student/pwo/pwo-lab05/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lab06 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'lab06 1.0-SNAPSHOT API'
+pwo.seq
+pwo.utils
+pwo.app
+/home/student/pwo/pwo-lab05/src/main/java = 1700646049065
+/home/student/pwo/pwo-lab05/target/site/apidocs/index.html = 1700646495839
+/home/student/pwo/pwo-lab05/target/site/apidocs/jquery-ui.overrides.css = 1700646495867
+/home/student/pwo/pwo-lab05/target/site/apidocs/allclasses-index.html = 1700646495847
+/home/student/pwo/pwo-lab05/target/site/apidocs/help-doc.html = 1700646495863
+/home/student/pwo/pwo-lab05/target/site/apidocs/element-list = 1700646495803
+/home/student/pwo/pwo-lab05/target/site/apidocs/index-all.html = 1700646495859
+/home/student/pwo/pwo-lab05/target/site/apidocs/module-search-index.js = 1700646495851
+/home/student/pwo/pwo-lab05/target/site/apidocs/type-search-index.js = 1700646495851
+/home/student/pwo/pwo-lab05/target/site/apidocs/script.js = 1700646495863
+/home/student/pwo/pwo-lab05/target/site/apidocs/allpackages-index.html = 1700646495851
+/home/student/pwo/pwo-lab05/target/site/apidocs/overview-summary.html = 1700646495859
+/home/student/pwo/pwo-lab05/target/site/apidocs/member-search-index.js = 1700646495851
+/home/student/pwo/pwo-lab05/target/site/apidocs/package-search-index.js = 1700646495851
+/home/student/pwo/pwo-lab05/target/site/apidocs/overview-tree.html = 1700646495839
+/home/student/pwo/pwo-lab05/target/site/apidocs/stylesheet.css = 1700646495863
+/home/student/pwo/pwo-lab05/target/site/apidocs/tag-search-index.js = 1700646495851
+/home/student/pwo/pwo-lab05/target/site/apidocs/search.js = 1700646495863
